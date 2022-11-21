@@ -1,0 +1,37 @@
+body{
+    background-image: url(../../img/nueva/azul.jpg);
+}
+
+.inicio{
+    color: aliceblue;
+    margin-top: 10%;
+}
+
+.form-group{
+    color: rgb(255, 255, 255);
+}
+
+p{
+    color: rgb(255, 255, 255);
+}
+
+input{
+    width: 10%;
+    height: 40px;
+}
+
+label{
+    color: rgb(0, 247, 255);
+  
+}
+
+.volver{
+    margin-left: 5%;
+    margin-top: 2%;
+    color: rgb(255, 255, 255);
+   
+}
+
+.volver:hover{
+    color: rgb(0, 247, 255);
+}

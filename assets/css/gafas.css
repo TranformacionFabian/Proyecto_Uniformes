@@ -1,0 +1,25 @@
+img{
+    vertical-align: middle;
+    width: 80%;
+    height: 80%;
+}
+
+img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.titulo{
+    margin-left: 15%;
+}
+
+.btn{
+    background-color: blue;
+    color: blue;
+}
+
+
+
+
+

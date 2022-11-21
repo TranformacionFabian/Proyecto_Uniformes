@@ -1,0 +1,42 @@
+body{
+    background-image: url(../../img/nueva/azul.jpg);
+}
+
+.inicio{
+    margin-left: 35%;
+    color: aliceblue;
+    margin-top: 8%;
+}
+
+.form-group{
+    
+    color: rgb(255, 255, 255);
+}
+
+p{
+    margin-left: 60%;
+    color: rgb(255, 255, 255);
+}
+
+input{
+    width: 10%;
+    height: 40px;
+    margin-left: 60%;
+}
+
+label{
+    color: rgb(0, 247, 255);
+    margin-left: 100%;
+}
+
+button{
+    margin-left: 80%;
+   
+    background-color: rgb(0, 247, 255);
+    color: rgb(0, 0, 0);
+}
+
+a{
+    margin-left: 120%;
+    margin-top: -10%; 
+}
