@@ -18,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #333;
+	color: rgb(255, 255, 255);
 	margin-top: 0
 }
 
@@ -1337,7 +1337,7 @@ input[type=submit].btn-block {
 }
 
 .widget-menu>li>a {
-	background-color: #00ccac;
+	background-color: #000000;
 	color: #ffffff;
 	-webkit-transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
@@ -1361,8 +1361,8 @@ input[type=submit].btn-block {
 }
 
 .widget-menu>li>a:hover {
-	background-color: #28262c;
-	color: #fafafa;
+	background-color: #004cff;
+	color: #ffffff;
 }
 
 .widget-menu>li>a:hover .menu-icon {
